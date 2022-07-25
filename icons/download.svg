@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41 34" width="41" height="34">
+	<title>Новый проект</title>
+	<defs>
+		<image  width="41" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAiAQMAAAD4aWJ2AAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAMSURBVHicY2AYSQAAAO4AAXfym0kAAAAASUVORK5CYII="/>
+		<image  width="41" height="34" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAiCAMAAAD1eQAHAAAAAXNSR0IB2cksfwAAAGNQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////mkUNoAAAACF0Uk5TAP9mfnKEjYqTnJ+iA6gGsa66tHsJw3gPq8nA29gM/D82lzCqUAAAAJRJREFUeJzd0ssSgjAMBdBERJCXvKQgAv7/VwIDbbVNqxvGgbtK2jNpFgXYZ3DNf2bu5fUf5AmJOCQ969A1THVUeDEu4H1C37Kr/w6vFggQSBhaIUQxh3Fkl5DcFph+gxPNZpgnpnvEgpflHTETsEJkiqxFzZpHKZpal61smITw1KVysKbrCTlQ8qWNoP4Rz/bySBkBkx8EqkGnFvkAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Слой 1" href="#img2" x="0" y="0"/>
+</svg>

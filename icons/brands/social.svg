@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 28" width="32" height="28">
+	<title>Новый проект</title>
+	<defs>
+		<image  width="32" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAcAQMAAAA6DC9hAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAAAMSURBVHicY2AYPAAAAIwAAYLxe4sAAAAASUVORK5CYII="/>
+		<image  width="32" height="28" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAMAAAA3HE0QAAAAAXNSR0IB2cksfwAAAKtQTFRFAAAAHKrGKqzIKqzIKqzJKqvIJ6rJAKqqKq3JKqzIKqzIKqrMJqrGKazJK63JKq3HKqvIK6rGKqzIK6zIKqzIKazHKqq/KqzIK6zIKqrGKKrIKqzIK67GK6zJK6zIKKrGK6zIK6zIKa7IK63HK6zHKqzHKqrVKqzIKqzIKqzIKqzHK67JKqzJKa3IKq3IIqrMKa3JKqzIKq3IKq3IKa3JKqzJKqrKKqvJKa3J8IlRTQAAADl0Uk5TAAmK2+qxIQPA//AeG3VaYKsS56KfaQztkDYzgUiW9i2o/EVOnJMGz/PS4UJsXcMPY/lmyVGNGLdLdEKTPgAAANRJREFUeJzNkdkSgjAMRYOIGHCrIK6AqKjgBoro/3+ZLcsM0Pqs9yGZ6TnTJQX4s0gtua10vnO1izSaDtDrD1SBMMQsIyBjREMgmLkwhglr1ldhCjPW5hxfYJGlnFVOWJWCPaDFkTjBGuVcdte0ehv+Dttc2AHxEQUc9gfGjy7oAaIvGgQJqXCyzhoTg4tAuVJw65eXDd0mj2K6bEh3rzAedSzZxXIncQqjhqOw3Np5ptzhuqlhNa/GK9MQG/GSmqA0Of0yUhViXsBVVRBwfAsm+aN8AHeQEhGBB+iNAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Слой 1" href="#img2" x="0" y="0"/>
+</svg>
